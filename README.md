@@ -53,6 +53,10 @@ Vancouver: 5419384
 Hamburg: 2911298
 Rome: 3169070
 ```
+Para executar a API, siga o comando abaixo:
+```
+python app.py
+```
 Para teste de funcionalidades da API, usou-se do Postman e abaixo o link da collection com os devidos testes:
 ```
 https://www.postman.com/pcrespoo/workspace/raizenapi/collection/12696693-136f6e64-a36b-431a-a69f-9859619881a8?action=share&creator=12696693
