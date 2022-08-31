@@ -1,5 +1,4 @@
 flask
-flask-mongoengine
 dnspython
 Flask-Pymongo
 pymongo
